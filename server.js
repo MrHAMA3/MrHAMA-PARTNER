@@ -52,4 +52,4 @@ client.on("ready", () => {
 });
 
 
-client.login("")
+client.login("OTk1MjYzMjgzODI3MzIyOTMw.GZoHPz.qM5-AgDYkkGxEFstCriwCasL-u-4UWJWEQrogs")
